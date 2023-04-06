@@ -19,20 +19,20 @@
             </div>
             <div class="media-style3">
                 <div class="circle-btn style2">
-                    <a href="about.html" class="btn-icon"><i class="far fa-arrow-right"></i></a>
+                    <a href="/contactar" class="btn-icon"><i class="far fa-arrow-right"></i></a>
                     <div class="btn-text">
                         <svg viewBox="0 0 150 150">
                             <text>
                                 <textPath href="#textPath">
-                                    how to make your makeup last all day
+                                    ¡Olvídate del vello para siempre!
                                 </textPath>
                             </text>
                         </svg>
                     </div>
                 </div>
                 <div class="media-body">
-                    <span class="media-label">_skincare inspires</span>
-                    <p class="media-title">Specialty SPA</p>
+                    <span class="media-label">Los profesionales</span>
+                    <p  class="media-title">Perfect skin</p>
                 </div>
             </div>
             <div class="row gx-50">
@@ -92,7 +92,7 @@
         </div>
     </div>
 </section>
-<div class="bg-theme space-extra">
+<div hidden class="bg-theme space-extra">
     <div class="container">
         <div class="row vs-carousel text-center" data-slide-show="6" data-lg-slide-show="4" data-md-slide-show="3"
             data-sm-slide-show="2" data-xs-slide-show="2">
