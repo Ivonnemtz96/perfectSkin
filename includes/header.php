@@ -2,7 +2,7 @@
     <div class="vs-menu-area text-center">
         <button class="vs-menu-toggle"><i class="fal fa-times"></i></button>
         <div class="mobile-logo">
-            <a href="/"><img src="/assets/img/logo.svg" alt="Wellnez" /></a>
+            <a href="/"><img src="/assets/img/logo.svg?=1" alt="Wellnez" /></a>
         </div>
         <div class="vs-mobile-menu">
             <ul>
@@ -52,7 +52,7 @@
                         <div class="row justify-content-between align-items-center gx-60">
                             <div class="col">
                                 <div class="header-logo">
-                                    <a href="/"><img src="/assets/img/logo.svg" alt="logo" /></a>
+                                    <a href="/"><img src="/assets/img/logo.svg?=1" alt="logo" /></a>
                                 </div>
                             </div>
                             <div class="col-auto">
