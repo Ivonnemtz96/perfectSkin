@@ -7,13 +7,13 @@
     <meta name="keywords" content="Wellnez - Spa Beauty Salon HTML Template" />
     <meta name="robots" content="INDEX,FOLLOW" />
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no" />
-    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
-    <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon" />
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&amp;family=Marcellus&amp;display=swap"
         rel="stylesheet" />
-    <link rel="stylesheet" href="assets/css/app.min.css" />
-    <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="/assets/css/app.min.css" />
+    <link rel="stylesheet" href="/assets/css/fontawesome.min.css" />
+    <link rel="stylesheet" href="/assets/css/style.css" />
 </head>

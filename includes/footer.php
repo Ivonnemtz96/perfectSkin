@@ -12,7 +12,7 @@
                 </div>
                 <div class="col-md-5 col-lg-4">
                     <div class="vs-logo">
-                        <a href="index.html"><img src="assets/img/logo-2.svg" alt="logo" /></a>
+                        <a href="index.html"><img src="/assets/img/logo-2.svg" alt="logo" /></a>
                     </div>
                 </div>
                 <div class="col-md-7 col-lg-4">
@@ -80,7 +80,7 @@
                         <div class="recent-post-wrap">
                             <div class="recent-post">
                                 <div class="media-img">
-                                    <a href="blog-details.html"><img src="assets/img/widget/recent-post-2-1.jpg"
+                                    <a href="blog-details.html"><img src="/assets/img/widget/recent-post-2-1.jpg"
                                             alt="Blog Image" /></a>
                                 </div>
                                 <div class="media-body">
@@ -94,7 +94,7 @@
                             </div>
                             <div class="recent-post">
                                 <div class="media-img">
-                                    <a href="blog-details.html"><img src="assets/img/widget/recent-post-2-2.jpg"
+                                    <a href="blog-details.html"><img src="/assets/img/widget/recent-post-2-2.jpg"
                                             alt="Blog Image" /></a>
                                 </div>
                                 <div class="media-body">
@@ -124,7 +124,7 @@
                     </p>
                 </div>
                 <div class="col-auto d-none d-md-block">
-                    <img src="assets/img/widget/cards.png" alt="cards" />
+                    <img src="/assets/img/widget/cards.png" alt="cards" />
                 </div>
             </div>
         </div>
