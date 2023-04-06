@@ -189,7 +189,7 @@
 </section>
 <section class="space-extra-bottom">
     <div class="shape-mockup d-none d-xxxl-block" data-top="-26%" data-left="-10%">
-        <div class="curb-shape1"></div>
+
     </div>
     <!-- <div class="shape-mockup jump d-none d-xxxl-block" data-top="-50%" data-right="0">
         <img src="/assets/img/shape/b-s-1-5.png" alt="shape" />
@@ -208,7 +208,7 @@
                         <img src="/assets/img/shape/leaf-1-3.png" alt="shape" />
                     </div> -->
                     <div class="img-shape">
-                        <span class="img-text jump-reverse">Feature</span>
+                        <span class="img-text jump-reverse">expertos</span>
                     </div>
                 </div>
             </div>
@@ -614,82 +614,49 @@
 <section class="space-top space-extra-bottom">
     <div class="container">
         <div class="title-area text-center wow fadeInUp" data-wow-delay="0.2s">
-            <span class="sec-subtitle">our blog</span>
-            <h2 class="sec-title">Latest News Posts</h2>
+            <span class="sec-subtitle">Más cerca de ti</span>
+            <h2 class="sec-title">Conoce nuestras sucursales</h2>
             <div class="sec-shape">
                 <img src="/assets/img/shape/sec-shape-1.png" alt="shape" />
             </div>
         </div>
-        <div class="row vs-carousel arrow-margin wow fadeInUp" data-wow-delay="0.3s" data-slide-show="3"
+        <div class="row vs-carousel arrow-margin wow fadeInUp" data-wow-delay="0.3s" data-slide-show="2"
             data-md-slide-show="2" data-arrows="true">
-            <div class="col-xl-4">
+            <div class="col-xl-3">
                 <div class="vs-blog blog-style1">
                     <div class="blog-img">
-                        <a href="blog-details.html"><img src="/assets/img/blog/blog-1-1.jpg" alt="Blog Thumbnail"
+                        <a href="blog-details.html"><img src="/assets/img/blog/blog-1-1.jpg?=1" alt="Blog Thumbnail"
                                 class="w-100" /></a>
                     </div>
                     <div class="blog-content">
                         <h3 class="blog-title h5">
-                            <a href="blog-details.html">Appearance or Health By Eating Well And Exercising</a>
+                            <a href="blog-details.html">San José del Cabo</a>
                         </h3>
                         <div class="blog-meta">
-                            <a href="blog.html">By John Deo</a>
-                            <a href="blog.html">10 FEBRUARY, 2023</a>
+                            <a href="blog.html">Llamar</a>
+                            <a href="blog.html">Dirección</a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4">
+            <div class="col-xl-3">
                 <div class="vs-blog blog-style1">
                     <div class="blog-img">
-                        <a href="blog-details.html"><img src="/assets/img/blog/blog-1-2.jpg" alt="Blog Thumbnail"
+                        <a href="blog-details.html"><img src="/assets/img/blog/blog-1-2.jpg?=1" alt="Blog Thumbnail"
                                 class="w-100" /></a>
                     </div>
                     <div class="blog-content">
                         <h3 class="blog-title h5">
-                            <a href="blog-details.html">Body Spa Treatment on a Relaxing Spa Holiday</a>
+                            <a href="blog-details.html">Cabo San Lucas</a>
                         </h3>
                         <div class="blog-meta">
-                            <a href="blog.html">By Vivi Marian</a>
-                            <a href="blog.html">12 December, 2023</a>
+                        <a href="blog.html">Llamar</a>
+                            <a href="blog.html">Dirección</a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4">
-                <div class="vs-blog blog-style1">
-                    <div class="blog-img">
-                        <a href="blog-details.html"><img src="/assets/img/blog/blog-1-3.jpg" alt="Blog Thumbnail"
-                                class="w-100" /></a>
-                    </div>
-                    <div class="blog-content">
-                        <h3 class="blog-title h5">
-                            <a href="blog-details.html">Beautiful Wedding Body Treatment Relaxing Spa Holiday</a>
-                        </h3>
-                        <div class="blog-meta">
-                            <a href="blog.html">By Jane Baker</a>
-                            <a href="blog.html">05 November, 2023</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4">
-                <div class="vs-blog blog-style1">
-                    <div class="blog-img">
-                        <a href="blog-details.html"><img src="/assets/img/blog/blog-1-4.jpg" alt="Blog Thumbnail"
-                                class="w-100" /></a>
-                    </div>
-                    <div class="blog-content">
-                        <h3 class="blog-title h5">
-                            <a href="blog-details.html">Guide to Finding the Best Massage Sites & Odds feel</a>
-                        </h3>
-                        <div class="blog-meta">
-                            <a href="blog.html">By Mark Polo</a>
-                            <a href="blog.html">31 January, 2023</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
         </div>
     </div>
 </section>
@@ -709,7 +676,7 @@
         </div>
     </div>
     <h2 class="sec-title text-white text-uppercase mb-4 pb-2">
-        Get a Free Quote
+        Más información de nuestros servicios
     </h2>
     <div class="d-inline-flex flex-wrap justify-content-center gap-3 align-items-center">
         <a href="appointment.html" class="vs-btn style7">appointment</a>
