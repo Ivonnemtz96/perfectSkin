@@ -1,9 +1,9 @@
 <section class="hero-layout2">
-   
+
     <div class="hero-shape-2 jump-reverse" data-right="43%" data-top="9%">
         <img src="/assets/img/hero/hero-leaf-3.png" alt="shape" />
     </div>
-   
+
     <div class="hero-shape-4 rotate-reverse-img" data-top="37%" data-left="46%">
         <img src="/assets/img/hero/hero-flower-small-2.png" alt="shape" />
     </div>
@@ -189,14 +189,8 @@
 </section>
 <section class="space-extra-bottom">
     <div class="shape-mockup d-none d-xxxl-block" data-top="-26%" data-left="-10%">
+    </div>
 
-    </div>
-    <!-- <div class="shape-mockup jump d-none d-xxxl-block" data-top="-50%" data-right="0">
-        <img src="/assets/img/shape/b-s-1-5.png" alt="shape" />
-    </div>
-    <div class="shape-mockup jump-reverse d-none d-xxxl-block" data-top="6%" data-right="13%">
-        <img src="/assets/img/shape/leaf-1-4.png" alt="shape" />
-    </div> -->
     <div class="container">
         <div class="row gx-80 align-items-center">
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.2s">
@@ -204,9 +198,6 @@
                     <div class="img-1">
                         <img src="/assets/img/about/ab-2-1.jpg?=1" alt="about" />
                     </div>
-                    <!-- <div class="img-2 jump">
-                        <img src="/assets/img/shape/leaf-1-3.png" alt="shape" />
-                    </div> -->
                     <div class="img-shape">
                         <span class="img-text jump-reverse">expertos</span>
                     </div>
@@ -225,7 +216,7 @@
                                 <svg viewBox="0 0 150 150">
                                     <text>
                                         <textPath href="#textPath">
-                                            how to make your makeup last all day
+                                            Da click en este botón para agendar
                                         </textPath>
                                     </text>
                                 </svg>
@@ -239,7 +230,8 @@
                         </div>
                     </div>
                     <p class="about-text">
-                        En nuestra Perfect Skin, entendemos la importancia de tener una piel suave y sin vello, y es por eso
+                        En nuestra Perfect Skin, entendemos la importancia de tener una piel suave y sin vello, y es por
+                        eso
                         que nos dedicamos a brindarte tratamientos de depilación láser seguros, efectivos y sin dolor.
                         Con nuestra experiencia y conocimientos, podemos ofrecerte una solución personalizada para tus
                         necesidades de depilación.
@@ -259,6 +251,7 @@
         </div>
     </div>
 </section>
+<!-- Galería -->
 <div class="position-relative space-extra-bottom">
     <div class="gallery-shape1"></div>
     <div class="container-fluid">
@@ -269,7 +262,7 @@
             <div class="col">
                 <div class="gallery-style2">
                     <div class="gallery-img">
-                        <img src="/assets/img/gallery/gal-3-1.jpg" alt="gallery" />
+                        <img src="/assets/img/gallery/gal-3-1.jpg?=1" alt="gallery" />
                     </div>
                     <div class="circle-btn style2">
                         <a href="gallery-details.html" class="btn-icon"><i class="far fa-arrow-right"></i></a>
@@ -288,7 +281,7 @@
             <div class="col">
                 <div class="gallery-style2">
                     <div class="gallery-img">
-                        <img src="/assets/img/gallery/gal-3-2.jpg" alt="gallery" />
+                        <img src="/assets/img/gallery/gal-3-2.jpg?=1" alt="gallery" />
                     </div>
                     <div class="circle-btn style2">
                         <a href="gallery-details.html" class="btn-icon"><i class="far fa-arrow-right"></i></a>
@@ -307,7 +300,7 @@
             <div class="col">
                 <div class="gallery-style2">
                     <div class="gallery-img">
-                        <img src="/assets/img/gallery/gal-3-3.jpg" alt="gallery" />
+                        <img src="/assets/img/gallery/gal-3-3.jpg?=1" alt="gallery" />
                     </div>
                     <div class="circle-btn style2">
                         <a href="gallery-details.html" class="btn-icon"><i class="far fa-arrow-right"></i></a>
@@ -326,7 +319,7 @@
             <div class="col">
                 <div class="gallery-style2">
                     <div class="gallery-img">
-                        <img src="/assets/img/gallery/gal-3-4.jpg" alt="gallery" />
+                        <img src="/assets/img/gallery/gal-3-4.jpg?=1" alt="gallery" />
                     </div>
                     <div class="circle-btn style2">
                         <a href="gallery-details.html" class="btn-icon"><i class="far fa-arrow-right"></i></a>
@@ -345,214 +338,39 @@
         </div>
         <div class="arrows-style1">
             <button data-slick-prev=".gallery-slider1">
-                <i class="arrow"></i>Prev
+                <i class="arrow"></i>Anterior
             </button>
             <button data-slick-next=".gallery-slider1">
-                <i class="arrow"></i>Next
+                <i class="arrow"></i>Siguiente
             </button>
         </div>
     </div>
 </div>
-<!-- <section class="space">
-    <div class="title-area text-center wow fadeInUp" data-wow-delay="0.2s">
-        <span class="sec-subtitle">service of andfaison</span>
-        <h2 class="sec-title">Discover Our New Spa</h2>
-        <div class="sec-shape mb-5 pb-1">
-            <img src="/assets/img/shape/sec-shape-1.png" alt="shape" />
-        </div>
-    </div>
-    <div class="service-inner1">
-        <div class="shape-mockup jump d-none d-xxl-block" data-top="-25%" data-right="1%">
-            <img src="/assets/img/hero/hero-leaf-5.png" alt="shape" />
-        </div>
-        <div class="container-xl">
-            <div class="row justify-content-between align-items-center">
-                <div class="col-md-6 col-lg-5 col-xxl-auto">
-                    <div class="service-style1 reverse">
-                        <div class="vs-icon">
-                            <img src="/assets/img/icon/sr-i-1-1.png" alt="icon" />
-                        </div>
-                        <div class="service-content">
-                            <h3 class="service-title">
-                                <a href="service-details.html" class="text-inherit">Discover New</a>
-                            </h3>
-                            <p class="service-text">
-                                There are many variations of passages gaks the majority.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="service-style1 reverse">
-                        <div class="vs-icon">
-                            <img src="/assets/img/icon/sr-i-1-2.png" alt="icon" />
-                        </div>
-                        <div class="service-content">
-                            <h3 class="service-title">
-                                <a href="service-details.html" class="text-inherit">Eye & Shadow</a>
-                            </h3>
-                            <p class="service-text">
-                                There are many variations of passages gaks the majority.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="service-style1 reverse">
-                        <div class="vs-icon">
-                            <img src="/assets/img/icon/sr-i-1-3.png" alt="icon" />
-                        </div>
-                        <div class="service-content">
-                            <h3 class="service-title">
-                                <a href="service-details.html" class="text-inherit">Relaxation Room</a>
-                            </h3>
-                            <p class="service-text">
-                                There are many variations of passages gaks the majority.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col col-xxl-auto text-center d-none d-lg-block">
-                    <img src="/assets/img/bg/sr-shape-1-1.png" alt="shape" class="mt-n4" />
-                </div>
-                <div class="col-md-6 col-lg-5 col-xxl-auto">
-                    <div class="service-style1">
-                        <div class="vs-icon">
-                            <img src="/assets/img/icon/sr-i-1-4.png" alt="icon" />
-                        </div>
-                        <div class="service-content">
-                            <h3 class="service-title">
-                                <a href="service-details.html" class="text-inherit">Thermal Bath</a>
-                            </h3>
-                            <p class="service-text">
-                                There are many variations of passages gaks the majority.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="service-style1">
-                        <div class="vs-icon">
-                            <img src="/assets/img/icon/sr-i-1-5.png" alt="icon" />
-                        </div>
-                        <div class="service-content">
-                            <h3 class="service-title">
-                                <a href="service-details.html" class="text-inherit">Stone Massage</a>
-                            </h3>
-                            <p class="service-text">
-                                There are many variations of passages gaks the majority.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="service-style1">
-                        <div class="vs-icon">
-                            <img src="/assets/img/icon/sr-i-1-6.png" alt="icon" />
-                        </div>
-                        <div class="service-content">
-                            <h3 class="service-title">
-                                <a href="service-details.html" class="text-inherit">Parlar & Beauty</a>
-                            </h3>
-                            <p class="service-text">
-                                There are many variations of passages gaks the majority.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
-<!-- <section class="space-extra-bottom">
-    <div class="container">
-        <div class="title-area text-center wow fadeInUp" data-wow-delay="0.2s">
-            <span class="sec-subtitle">our Members</span>
-            <h2 class="sec-title">Expert Beautician</h2>
-            <div class="sec-shape">
-                <img src="/assets/img/shape/sec-shape-1.png" alt="shape" />
-            </div>
-        </div>
-        <div class="row vs-carousel" data-arrows="true" data-slide-show="4" data-lg-slide-show="3"
-            data-md-slide-show="2">
-            <div class="col-xl-3">
-                <div class="team-style1">
-                    <div class="team-img">
-                        <a href="team-details.html"><img src="/assets/img/team/team-1-1.png" alt="member" /></a>
-                    </div>
-                    <h3 class="team-name h4">
-                        <a href="team-details.html">Lenda Murray</a>
-                    </h3>
-                    <p class="team-degi">Founder & CEO</p>
-                </div>
-            </div>
-            <div class="col-xl-3">
-                <div class="team-style1">
-                    <div class="team-img">
-                        <a href="team-details.html"><img src="/assets/img/team/team-1-2.png" alt="member" /></a>
-                    </div>
-                    <h3 class="team-name h4">
-                        <a href="team-details.html">Emely jonson</a>
-                    </h3>
-                    <p class="team-degi">Manicure Expart</p>
-                </div>
-            </div>
-            <div class="col-xl-3">
-                <div class="team-style1">
-                    <div class="team-img">
-                        <a href="team-details.html"><img src="/assets/img/team/team-1-3.png" alt="member" /></a>
-                    </div>
-                    <h3 class="team-name h4">
-                        <a href="team-details.html">Arika Murray</a>
-                    </h3>
-                    <p class="team-degi">Beautician</p>
-                </div>
-            </div>
-            <div class="col-xl-3">
-                <div class="team-style1">
-                    <div class="team-img">
-                        <a href="team-details.html"><img src="/assets/img/team/team-1-4.png" alt="member" /></a>
-                    </div>
-                    <h3 class="team-name h4">
-                        <a href="team-details.html">Lola Jonson</a>
-                    </h3>
-                    <p class="team-degi">Spa Specialist</p>
-                </div>
-            </div>
-            <div class="col-xl-3">
-                <div class="team-style1">
-                    <div class="team-img">
-                        <a href="team-details.html"><img src="/assets/img/team/team-1-5.png" alt="member" /></a>
-                    </div>
-                    <h3 class="team-name h4">
-                        <a href="team-details.html">Rose Marian</a>
-                    </h3>
-                    <p class="team-degi">Massage Expert</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
+
 <section class="" data-bg-src="/assets/img/bg/price-bg-1-1.jpg">
     <div class="shape-mockup jump d-none d-xxl-block" data-right="2%" data-top="8%">
-        <img src="/assets/img/shape/leaf-1-1.png" alt="leaf" />
+        <!-- <img src="/assets/img/shape/leaf-1-1.png" alt="leaf" /> -->
     </div>
     <div class="container-fluid px-0 hd-container1">
+
         <div class="row gx-80 align-items-center">
             <div class="col-xl-auto wow fadeInUp" data-wow-delay="0.2s">
                 <div class="img-box5">
-                    <img src="/assets/img/about/price-1-1.jpg" alt="price" />
+                    <img src="/assets/img/about/price-1-1.jpg?=1" alt="price" />
                 </div>
             </div>
+
             <div class="col space-top space-extra-bottom wow fadeInUp" data-wow-delay="0.3s">
                 <div class="title-area text-center text-xl-start">
-                    <span class="sec-subtitle">Pricing Plans</span>
-                    <h2 class="sec-title">Your Perfect Package</h2>
+                    <span style="color:#fff;" class="sec-subtitle">Nuestros Servicios</span>
+                    <h2 class="sec-title">Confía en los expertos</h2>
                 </div>
                 <div class="price-inner1">
-                    <div class="row">
+                    <div class="row gallery-slider1 vs-carousel" data-slide-show="2" data-center-mode="false">
                         <div class="col-md-6">
                             <div class="package-style1">
                                 <div class="package-top">
-                                    <div class="package-left">
-                                        <p class="package-price">
-                                            12<span class="currency">$</span>
-                                        </p>
-                                        <p class="package-duration">Billed Every Month</p>
-                                    </div>
-                                    <h3 class="package-name">Basic Plan</h3>
+                                    <h3 class="package-name">Corporales</h3>
                                 </div>
                                 <div class="package-shape">
                                     <img src="/assets/img/shape/price-shape-2.png" alt="shape" />
@@ -560,30 +378,28 @@
                                 <div class="package-list">
                                     <ul class="list-unstyled">
                                         <li>
-                                            <span class="text-title">Mobile-Optimized</span>
+                                            <span class="text-title">Cápsula hipertérmica</span>
                                         </li>
-                                        <li>Free Custom Domain</li>
-                                        <li>Best Hosting</li>
-                                        <li>Max Makup</li>
-                                        <li>Outstanding Support</li>
-                                        <li>Happy Customers</li>
+                                        <li>Cavitación</li>
+                                        <li>Criolipólisis</li>
+                                        <li>Slim Beauty</li>
+                                        <li>HIFU</li>
+                                        <li>Maderoterapia</li>
+                                        <li>Radiofrecuencia</li>
+                                        <li>Vshape</li>
+                                        <br>
+                                        <br>
                                     </ul>
                                 </div>
                                 <div class="package-btn">
-                                    <a href="contact.html" class="vs-btn style3">Book Now</a>
+                                    <a href="#" class="vs-btn style3">Agendar ahora</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="package-style1">
                                 <div class="package-top">
-                                    <div class="package-left">
-                                        <p class="package-price">
-                                            29<span class="currency">$</span>
-                                        </p>
-                                        <p class="package-duration">Billed Every Year</p>
-                                    </div>
-                                    <h3 class="package-name">Mega Plan</h3>
+                                    <h3 class="package-name">Faciales</h3>
                                 </div>
                                 <div class="package-shape">
                                     <img src="/assets/img/shape/price-shape-2.png" alt="shape" />
@@ -591,25 +407,67 @@
                                 <div class="package-list">
                                     <ul class="list-unstyled">
                                         <li>
-                                            <span class="text-title">Mobile-Optimized</span>
+                                            <span class="text-title">Aqua facial</span>
                                         </li>
-                                        <li>Free Custom Domain</li>
-                                        <li>Best Hosting</li>
-                                        <li>Max Makup</li>
-                                        <li>Outstanding Support</li>
-                                        <li>Happy Customers</li>
+                                        <li>HIFU</li>
+                                        <li>Fotorejuvenecimiento</li>
+                                        <li>Fotodespigmentación</li>
+                                        <li>Hidrodermoabrasión con punta diamante</li>
+                                        <li>Radiofrecuencia fraccionada</li>
+                                        <li>Radiofrecuencia fraccionada con micro agujas</li>
+                                        <li>Skin Scrubber</li>
+                                        <li>Terapia Led</li>
                                     </ul>
                                 </div>
                                 <div class="package-btn">
-                                    <a href="contact.html" class="vs-btn style3">Book Now</a>
+                                    <a href="#" class="vs-btn style3">Agendar ahora</a>
                                 </div>
                             </div>
                         </div>
+                        <div class="col-md-6">
+                            <div class="package-style1">
+                                <div class="package-top">
+                                    <h3 class="package-name">Eliminación de tatuajes</h3>
+                                </div>
+                                <div class="package-shape">
+                                    <img src="/assets/img/shape/price-shape-2.png" alt="shape" />
+                                </div>
+                                <div class="package-list">
+                                    <p>
+                                        La eliminación de tatuajes con láser Nd:YAG es un procedimiento que utiliza un
+                                        láser de alta energía para eliminar tatuajes no deseados de la piel. El láser
+                                        Nd:YAG emite una luz pulsada que se absorbe selectivamente por los pigmentos de
+                                        tinta del tatuaje y fragmenta las partículas en piezas más pequeñas. A medida
+                                        que el sistema linfático del cuerpo elimina las partículas de tinta
+                                        fragmentadas, el tatuaje se desvanece gradualmente.
+                                        <br>
+                                        <br>
+                                    </p>
+                                </div>
+                                <div class="package-btn">
+                                    <a href="#" class="vs-btn style3">Agendar ahora</a>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
+
             </div>
+
+            <div class="arrows-style1">
+                <button style="color:#fff;" data-slick-prev=".gallery-slider1">
+                    <i class="arrow"></i>Anterior
+                </button>
+                <button style="color:#fff;" data-slick-next=".gallery-slider1">
+                    <i class="arrow"></i>Siguiente
+                </button>
+            </div>
+
+
         </div>
-    </div>
+
+
 </section>
 <section class="space-top space-extra-bottom">
     <div class="container">
@@ -650,13 +508,13 @@
                             <a href="blog-details.html">Cabo San Lucas</a>
                         </h3>
                         <div class="blog-meta">
-                        <a href="blog.html">Llamar</a>
+                            <a href="blog.html">Llamar</a>
                             <a href="blog.html">Dirección</a>
                         </div>
                     </div>
                 </div>
             </div>
-            
+
         </div>
     </div>
 </section>
