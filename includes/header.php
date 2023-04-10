@@ -15,7 +15,7 @@
                     </ul>
                 </li> -->
                 <li><a href="/">Inicio</a></li>
-                <li><a href="/nosotros">Nosotros</a></li>
+                <li><a href="/#nosotros">Nosotros</a></li>
                 <li><a href="/servicios">Servicios</a></li>
                 <li><a href="/galeria">Galería</a></li>
                 <li><a href="/contactar">Contactar</a></li>
@@ -26,24 +26,7 @@
 
 
 <header class="vs-header header-layout2">
-    <div class="header-top">
-        <div class="container">
-            <div class="row justify-content-between align-items-center">
-                <div class="col-sm-auto text-center">
-                    <p class="header-text">
-                        receove free shipping on orders over $50
-                    </p>
-                </div>
-                <div class="col-auto d-none d-sm-block">
-                    <div class="social-style1">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
     <div class="sticky-wrap">
         <div class="sticky-active">
             <div class="menu-area">
@@ -67,7 +50,7 @@
                                             </ul>
                                         </li> -->
                                         <li><a href="/">Inicio</a></li>
-                                        <li><a href="/nosotros">Nosotros</a></li>
+                                        <li><a href="/#nosotros">Nosotros</a></li>
                                         <li><a href="/servicios">Servicios</a></li>
                                         <li><a href="/galeria">Galería</a></li>
                                         <li><a href="/contactar">Contactar</a></li>

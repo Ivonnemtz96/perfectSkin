@@ -191,7 +191,7 @@
     <div class="shape-mockup d-none d-xxxl-block" data-top="-26%" data-left="-10%">
     </div>
 
-    <div class="container">
+    <div class="container" id="nosotros">
         <div class="row gx-80 align-items-center">
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.2s">
                 <div class="img-box2">
