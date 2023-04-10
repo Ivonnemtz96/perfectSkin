@@ -518,7 +518,8 @@
         </div>
     </div>
 </section>
-<section class="text-center space" data-bg-src="/assets/img/bg/cta-bg-1-1.jpg">
+
+<section class="text-center space" data-bg-src="/assets/img/bg/cta-bg-1-1.jpg?=1">
     <div class="d-inline-flex mb-4 pb-1">
         <div class="circle-btn style2">
             <a href="about.html" class="btn-icon"><i class="far fa-arrow-right"></i></a>
@@ -526,7 +527,7 @@
                 <svg viewBox="0 0 150 150">
                     <text>
                         <textPath href="#textPath">
-                            how to make your makeup last all day
+                            Da click al botón para agendar tu cita
                         </textPath>
                     </text>
                 </svg>
@@ -537,7 +538,7 @@
         Más información de nuestros servicios
     </h2>
     <div class="d-inline-flex flex-wrap justify-content-center gap-3 align-items-center">
-        <a href="appointment.html" class="vs-btn style7">appointment</a>
-        <a href="tel:+4412589634" class="vs-btn style6"><i class="fal fa-headset"></i>make a call</a>
+        <a href="/contacto" class="vs-btn style7">Agendar ahora</a>
+        <a href="tel:+4412589634" class="vs-btn style6"><i class="fal fa-headset"></i>Llamar</a>
     </div>
 </section>
