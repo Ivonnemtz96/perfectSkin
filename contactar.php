@@ -11,6 +11,7 @@ include('includes/head.php');
     include('includes/header2.php');
     include('modules/contacto.php');
     include('includes/footer.php');
+    include('includes/redes.php');
     include('includes/scripts.php');
     ?>
 </body>

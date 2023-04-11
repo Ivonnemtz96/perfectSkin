@@ -253,6 +253,13 @@
 </section>
 <!-- Galería -->
 <div class="position-relative space-extra-bottom">
+    <div id="galeria" class="title-area text-center wow fadeInUp" data-wow-delay="0.2s">
+        <span class="sec-subtitle">Siente la confianza de una piel suave y radiante con nuestra tecnología</span>
+        <h2 class="sec-title">Galería</h2>
+        <div class="sec-shape">
+            <img src="/assets/img/shape/sec-shape-1.png" alt="shape" />
+        </div>
+    </div>
     <div class="gallery-shape1"></div>
     <div class="container-fluid">
         <div class="row gallery-slider1 vs-carousel" data-slide-show="1" data-center-mode="true"
@@ -264,17 +271,9 @@
                     <div class="gallery-img">
                         <img src="/assets/img/gallery/gal-3-1.jpg?=1" alt="gallery" />
                     </div>
-                    <div class="circle-btn style2">
-                        <a href="gallery-details.html" class="btn-icon"><i class="far fa-arrow-right"></i></a>
-                        <div class="btn-text">
-                            <svg viewBox="0 0 150 150">
-                                <text>
-                                    <textPath href="#textPath">
-                                        how to make your makeup last all day
-                                    </textPath>
-                                </text>
-                            </svg>
-                        </div>
+                    <div class="">
+                        <a href="gallery-details.html" class="btn-icon"></a>
+                        
                     </div>
                 </div>
             </div>
@@ -283,17 +282,9 @@
                     <div class="gallery-img">
                         <img src="/assets/img/gallery/gal-3-2.jpg?=1" alt="gallery" />
                     </div>
-                    <div class="circle-btn style2">
-                        <a href="gallery-details.html" class="btn-icon"><i class="far fa-arrow-right"></i></a>
-                        <div class="btn-text">
-                            <svg viewBox="0 0 150 150">
-                                <text>
-                                    <textPath href="#textPath">
-                                        how to make your makeup last all day
-                                    </textPath>
-                                </text>
-                            </svg>
-                        </div>
+                    <div class="">
+                        <a href="gallery-details.html" class="btn-icon"></a>
+                        
                     </div>
                 </div>
             </div>
@@ -302,17 +293,9 @@
                     <div class="gallery-img">
                         <img src="/assets/img/gallery/gal-3-3.jpg?=1" alt="gallery" />
                     </div>
-                    <div class="circle-btn style2">
-                        <a href="gallery-details.html" class="btn-icon"><i class="far fa-arrow-right"></i></a>
-                        <div class="btn-text">
-                            <svg viewBox="0 0 150 150">
-                                <text>
-                                    <textPath href="#textPath">
-                                        how to make your makeup last all day
-                                    </textPath>
-                                </text>
-                            </svg>
-                        </div>
+                    <div class="">
+                        <a href="gallery-details.html" class="btn-icon"></a>
+                       
                     </div>
                 </div>
             </div>
@@ -321,17 +304,9 @@
                     <div class="gallery-img">
                         <img src="/assets/img/gallery/gal-3-4.jpg?=1" alt="gallery" />
                     </div>
-                    <div class="circle-btn style2">
-                        <a href="gallery-details.html" class="btn-icon"><i class="far fa-arrow-right"></i></a>
-                        <div class="btn-text">
-                            <svg viewBox="0 0 150 150">
-                                <text>
-                                    <textPath href="#textPath">
-                                        how to make your makeup last all day
-                                    </textPath>
-                                </text>
-                            </svg>
-                        </div>
+                    <div class="">
+                        <a href="gallery-details.html" class="btn-icon"></a>
+                       
                     </div>
                 </div>
             </div>

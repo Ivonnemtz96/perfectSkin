@@ -17,7 +17,7 @@
                 <li><a href="/">Inicio</a></li>
                 <li><a href="/#nosotros">Nosotros</a></li>
                 <li><a href="/servicios">Servicios</a></li>
-                <li><a href="/galeria">Galería</a></li>
+                <li><a href="/#galeria">Galería</a></li>
                 <li><a href="/contactar">Contactar</a></li>
             </ul>
         </div>
@@ -52,7 +52,7 @@
                                         <li><a href="/">Inicio</a></li>
                                         <li><a href="/#nosotros">Nosotros</a></li>
                                         <li><a href="/servicios">Servicios</a></li>
-                                        <li><a href="/galeria">Galería</a></li>
+                                        <li><a href="/#galeria">Galería</a></li>
                                         <li><a href="/contactar">Contactar</a></li>
                                     </ul>
                                 </nav>
@@ -62,7 +62,7 @@
                                     <!-- <button class="searchBoxTggler">
                                         <i class="far fa-search"></i>
                                     </button> -->
-                                    <a href="#" class="vs-btn style8 d-none d-xl-inline-block">Agendar cita</a>
+                                    <a href="https://wa.me/+526241593637?text=Hola%20me%20gustaría%20agendar%20una%20cita." class="vs-btn style8 d-none d-xl-inline-block">Agendar cita</a>
                                     <!-- <button class="bar-btn sideMenuToggler d-none d-xl-inline-block">
                                         <span class="bar"></span> <span class="bar"></span>
                                         <span class="bar"></span>

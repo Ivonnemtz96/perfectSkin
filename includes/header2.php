@@ -9,7 +9,7 @@
                 <li><a href="/">Inicio</a></li>
                 <li><a href="/#nosotros">Nosotros</a></li>
                 <li><a href="/servicios">Servicios</a></li>
-                <li><a href="/galeria">Galería</a></li>
+                <li><a href="/#galeria">Galería</a></li>
                 <li><a href="/contactar">Contactar</a></li>
             </ul>
         </div>
@@ -120,7 +120,7 @@
                                 <li><a href="/">Inicio</a></li>
                                 <li><a href="/#nosotros">Nosotros</a></li>
                                 <li><a href="/servicios">Servicios</a></li>
-                                <li><a href="/galeria">Galería</a></li>
+                                <li><a href="/#galeria">Galería</a></li>
                                 <li><a href="/contactar">Contactar</a></li>
                             </ul>
                         </nav>
@@ -128,7 +128,7 @@
                     <div class="col-auto">
                         <div class="header-btns">
                            
-                            <a href="#" class="vs-btn style8 d-none d-xl-inline-block">Agendar cita</a>
+                            <a href="https://wa.me/+526241593637?text=Hola%20me%20gustaría%20agendar%20una%20cita." class="vs-btn style8 d-none d-xl-inline-block">Agendar cita</a>
                             
                             <button class="vs-menu-toggle d-inline-block d-lg-none" type="button">
                                 <i class="fal fa-bars"></i>
