@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$title = "Servicios";
+$title = "Contacto";
 include('includes/head.php');
 ?>
 
@@ -9,7 +9,7 @@ include('includes/head.php');
     <?
     include('includes/preloader.php');
     include('includes/header2.php');
-    include('modules/servicios.php');
+    include('modules/contacto.php');
     include('includes/footer.php');
     include('includes/scripts.php');
     ?>
