@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Perfect Skin</title>
+    <title>Perfect Skin - <? echo $title?></title>
     <meta name="author" content="Vecuro" />
     <meta name="description" content="Wellnez - Spa Beauty Salon HTML Template" />
     <meta name="keywords" content="Wellnez - Spa Beauty Salon HTML Template" />
