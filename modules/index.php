@@ -456,7 +456,8 @@
             <div class="col-md-5">
                 <div class="vs-blog blog-style1">
                     <div class="blog-img">
-                        <a target="_blank" href="https://goo.gl/maps/oUi5gKAHoSprYRPx9"><img src="/assets/img/blog/blog-1-2.jpg?=1" alt="Blog Thumbnail" class="w-100" /></a>
+                        <a target="_blank" href="https://goo.gl/maps/oUi5gKAHoSprYRPx9"><img
+                                src="/assets/img/blog/blog-1-2.jpg?=1" alt="Blog Thumbnail" class="w-100" /></a>
                     </div>
                     <div class="blog-content">
                         <h3 class="blog-title h5">
@@ -470,37 +471,114 @@
                 </div>
             </div>
             <div class="col-md-5">
+
                 <div class="vs-blog blog-style1">
                     <!-- <div class="blog-img">
                         <a href=""><img src="/assets/img/blog/blog-1-2.jpg?=1" alt="Blog Thumbnail" class="w-100" /></a>
                     </div> -->
                     <div class="blog-content">
-                        <h2>
+                        <h4>
                             Encuéntranos también en:
-                        </h2>
-                        <h3>
-                            <a target="_blank" target="_blank" href="https://goo.gl/maps/oVmbS9XBYDNCfxrSA">
-                                Plaza San Lucas
-                            </a>
-                        </h3>
-                        <h5>
-                            Local 5-S <br>
-                            Carretera Transpeninsular <br>
-                            Km. 0.5,El Tezal, <br>
-                            Cabo San Lucas. <br><br><br>
-                        </h5>
-                        <div class="blog-meta">
+                        </h4>
+                        <div class="row">
+                            <div class="col-md-6 mb-3 mt-3">
+
+                                <h6>
+                                    <a style="color:#000;" target="_blank" target="_blank"
+                                        href="https://goo.gl/maps/oUi5gKAHoSprYRPx9">
+                                        Suc. San José del Cabo
+                                    </a>
+                                </h6>
+                                <a target="_blank" href="https://goo.gl/maps/oUi5gKAHoSprYRPx9">
+                                    <i class="far fa-map-marked"></i> Ver ubicación</a>
+                                <p>
+                                    <a target="_blank" href="tel:+526241593637">
+                                        <i class="far fab fa-phone"></i> Teléfono: +52 (624) 159 3637</a> <br>
+                                </p>
+                            </div>
+                            <div class="col-md-6 mb-3 mt-3">
+                                <h6>
+                                    <a style="color:#000;" target="_blank" target="_blank"
+                                        href="https://goo.gl/maps/oVmbS9XBYDNCfxrSA">
+                                        Plaza San Lucas
+                                    </a>
+                                </h6>
+                                <a target="_blank" href="https://goo.gl/maps/oVmbS9XBYDNCfxrSA">
+                                    <i class="far fa-map-marked"></i> Ver ubicación</a>
+                                <p>
+                                    <a target="_blank" href="tel:+526241447343">
+                                        <i class="far fab fa-phone"></i> Teléfono: +52 (624) 144 7343</a> <br>
+                                </p>
+                            </div>
+                            <div class="col-md-6 mb-3 mt-3">
+                                <h6>
+                                    <a style="color:#000;" target="_blank" target="_blank"
+                                        href="https://goo.gl/maps/4FKSsdu94qKcDPcx8">
+                                        Plaza Río, Tijuana
+                                    </a>
+                                </h6>
+                                <a target="_blank" href="https://goo.gl/maps/4FKSsdu94qKcDPcx8">
+                                    <i class="far fa-map-marked"></i> Ver ubicación</a>
+                                <p>
+                                    <a target="_blank" href="tel:+526646841486">
+                                        <i class="far fab fa-phone"></i> Teléfono: +52 (664) 684 1486</a> <br>
+                                </p>
+                            </div>
+                            <div class="col-md-6 mb-3 mt-3">
+                                <h6>
+                                    <a style="color:#000;" target="_blank" target="_blank"
+                                        href="https://goo.gl/maps/yJuoajAJr6hQ6WKE8">
+                                        Macroplaza, Tijuana
+                                    </a>
+                                </h6>
+                                <a target="_blank" href="https://goo.gl/maps/yJuoajAJr6hQ6WKE8">
+                                    <i class="far fa-map-marked"></i> Ver ubicación</a>
+                                <p>
+                                    <a target="_blank" href="tel:+526646251088">
+                                        <i class="far fab fa-phone"></i> Teléfono: +52 (664) 625 1088</a> <br>
+                                </p>
+                            </div>
+                            <div class="col-md-6 mb-3 mt-3">
+                                <h6>
+                                    <a style="color:#000;" target="_blank" target="_blank"
+                                        href="https://goo.gl/maps/9KD6LMptAdSFf3WB6">
+                                        Plaza Coronado, Tijuana
+                                    </a>
+                                </h6>
+                                <a target="_blank" href="https://goo.gl/maps/9KD6LMptAdSFf3WB6">
+                                    <i class="far fa-map-marked"></i> Ver ubicación</a>
+                                <p>
+                                    <a target="_blank" href="tel:+526649057616">
+                                        <i class="far fab fa-phone"></i> Teléfono: +52 (664) 905 7616</a> <br>
+                                </p>
+                            </div>
+                            <div class="col-md-6 mb-3 mt-3">
+                                <h6>
+                                    <a style="color:#000;" target="_blank" target="_blank"
+                                        href="https://goo.gl/maps/fTpyioQtkMwkbwch9">
+                                        Plaza Mare, Ensenada
+                                    </a>
+                                </h6>
+                                <a target="_blank" href="https://goo.gl/maps/fTpyioQtkMwkbwch9">
+                                    <i class="far fa-map-marked"></i> Ver ubicación</a>
+                                <p>
+                                    <a target="_blank" href="tel:+526461733185">
+                                        <i class="far fab fa-phone"></i> Teléfono: +52 (646) 173 3185</a> <br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- <div class="blog-meta">
                             <a target="_blank" href="https://goo.gl/maps/oVmbS9XBYDNCfxrSA">
                                 <i class="far fa-map-marked"></i> Ver ubicación</a> <br><br>
                            <p>
                            <a target="_blank" href="tel:+526241447343">
                                <i class="far fab fa-phone"></i> Teléfono: +52 (624) 144 7343</a> <br>
                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
+                        </div> -->
         </div>
     </div>
 </section>
