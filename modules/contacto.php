@@ -2,7 +2,7 @@
     <div class="container z-index-common">
         <div class="breadcumb-content">
             <h1 class="breadcumb-title">
-                Contác<span class="inner-text">tanos</span>
+                <span class="inner-text">Contáctanos</span>
             </h1>
             <div class="breadcumb-menu-wrap">
                 <ul class="breadcumb-menu">
@@ -59,7 +59,7 @@
                     <div class="tr">
                         <div class="tb-col">
                             <span class="th">Dirección :</span>
-                            <span class="td">Cabo San Lucas y San José del Cabo</span>
+                            <span class="td">C. Valerio Gonzalez 56, 1ro de Mayo, San José del Cabo</span>
                         </div>
                     </div>
                     <div class="tr">

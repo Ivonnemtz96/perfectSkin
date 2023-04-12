@@ -44,10 +44,10 @@
                             <h3 class="package-name">¿Quieres olvidarte del vello?</h3>
                         </div>
                         <div class="package-shape">
-                            <img src="/assets/img/shape/price-shape-3.png" alt="shape" />
+                            <img src="/assets/img/shape/price-shape-3.png?=1" alt="shape" />
                         </div>
                         <div class="package-img">
-                            <img src="/assets/img/price/p-h-2-1.png" alt="price" />
+                            <img src="/assets/img/price/p-h-2-1.png?=1" alt="price" />
                             <i class="package-dot rotate"></i>
                         </div>
                         <div class="package-btn">
@@ -59,7 +59,7 @@
                 <div class="col-md-6 col-xxl-auto">
                     <div class="package-style1 layout2 active">
                         <div class="package-top">
-                            <h3 class="package-name">¿Cansada de depilarte las cejas?</h3>
+                            <h3 class="package-name">Revitaliza tu piel y luce más joven</h3>
                         </div>
                         <div class="package-shape">
                             <img src="/assets/img/shape/price-shape-3.png" alt="shape" />
@@ -147,7 +147,7 @@
                         <i class="arrow"></i><i class="arrow"></i><i class="arrow"></i><i class="arrow"></i>
                     </div>
                     <p class="feature-text">
-                        En Perfect Skin tenemos la mejor tecnología, y la más novedosa.
+                        En Perfect Skin tenemos la mejor y más novedosa tecnología.
                         Somos líderes en la depilación definitiva, ya que contamos con el método más efectivo y seguro
                         para eliminar el vello permanentemente. <br><br>
                     </p>
@@ -165,7 +165,7 @@
                     </div>
                     <p class="feature-text">
                         Nuestro procedimiento de remoción de tatuajes se realiza mediante láser ND-Yag, provocando la
-                        fragmentacion de las partículas de pigmento, permitiendo su eliminación del cuerpo.
+                        fragmentación de las partículas de pigmento, permitiendo su eliminación del cuerpo.
                     </p>
                     <a href="/contactar" class="link-btn style2">Contactar</a>
                 </div>
@@ -234,9 +234,10 @@
                         </div>
                     </div>
                     <p class="about-text">
-                        En nuestra Perfect Skin, entendemos la importancia de tener una piel suave y sin vello, y es por
+                        En Perfect Skin, entendemos la importancia de tener una piel suave y sin vello, es por
                         eso
                         que nos dedicamos a brindarte tratamientos de depilación láser seguros, efectivos y sin dolor.
+                        <br>
                         Con nuestra experiencia y conocimientos, podemos ofrecerte una solución personalizada para tus
                         necesidades de depilación.
                     </p>
@@ -289,7 +290,7 @@
             <div class="col">
                 <div class="gallery-style2">
                     <div class="gallery-img">
-                        <img src="/assets/img/gallery/gal-3-3.jpg?=1" alt="gallery" />
+                        <img src="/assets/img/gallery/gal-3-3.jpg?=2" alt="gallery" />
                     </div>
 
                 </div>
@@ -321,13 +322,13 @@
     <div class="container-fluid px-0 hd-container1">
 
         <div class="row gx-80 align-items-center">
-            <div class="col-xl-auto wow fadeInUp" data-wow-delay="0.2s">
+            <div class="col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                 <div class="img-box5">
                     <img src="/assets/img/about/price-1-1.jpg?=1" alt="price" />
                 </div>
             </div>
 
-            <div class="col space-top space-extra-bottom wow fadeInUp" data-wow-delay="0.3s">
+            <div class="col-md-6 space-top space-extra-bottom wow fadeInUp" data-wow-delay="0.3s">
                 <div class="title-area text-center text-xl-start">
                     <span style="color:#fff;" class="sec-subtitle">Nuestros Servicios</span>
                     <h2 class="sec-title">Confía en los expertos</h2>
@@ -451,12 +452,11 @@
                 <img src="/assets/img/shape/sec-shape-1.png" alt="shape" />
             </div>
         </div>
-        <div class="row vs-carousel arrow-margin wow fadeInUp" data-wow-delay="0.3s" data-slide-show="2"
-            data-md-slide-show="2" data-arrows="true">
-            <div class="col-xl-3">
+        <div class="row arrow-margin wow fadeInUp justify-content-between" data-wow-delay="0.3s">
+            <div class="col-md-5">
                 <div class="vs-blog blog-style1">
                     <div class="blog-img">
-                        <a href=""><img src="/assets/img/blog/blog-1-1.jpg?=1" alt="Blog Thumbnail" class="w-100" /></a>
+                        <a target="_blank" href="https://goo.gl/maps/oUi5gKAHoSprYRPx9"><img src="/assets/img/blog/blog-1-2.jpg?=1" alt="Blog Thumbnail" class="w-100" /></a>
                     </div>
                     <div class="blog-content">
                         <h3 class="blog-title h5">
@@ -469,19 +469,33 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-3">
+            <div class="col-md-5">
                 <div class="vs-blog blog-style1">
-                    <div class="blog-img">
+                    <!-- <div class="blog-img">
                         <a href=""><img src="/assets/img/blog/blog-1-2.jpg?=1" alt="Blog Thumbnail" class="w-100" /></a>
-                    </div>
+                    </div> -->
                     <div class="blog-content">
-                        <h3 class="blog-title h5">
-                            <a target="_blank" target="_blank" href="https://goo.gl/maps/oVmbS9XBYDNCfxrSA">Cabo San
-                                Lucas</a>
+                        <h2>
+                            Encuéntranos también en:
+                        </h2>
+                        <h3>
+                            <a target="_blank" target="_blank" href="https://goo.gl/maps/oVmbS9XBYDNCfxrSA">
+                                Plaza San Lucas
+                            </a>
                         </h3>
+                        <h5>
+                            Local 5-S <br>
+                            Carretera Transpeninsular <br>
+                            Km. 0.5,El Tezal, <br>
+                            Cabo San Lucas. <br><br><br>
+                        </h5>
                         <div class="blog-meta">
-                            <a target="_blank" href="tel:+526241447343">Llamar</a>
-                            <a target="_blank" href="https://goo.gl/maps/oVmbS9XBYDNCfxrSA">Dirección</a>
+                            <a target="_blank" href="https://goo.gl/maps/oVmbS9XBYDNCfxrSA">
+                                <i class="far fa-map-marked"></i> Ver ubicación</a> <br><br>
+                           <p>
+                           <a target="_blank" href="tel:+526241447343">
+                               <i class="far fab fa-phone"></i> Teléfono: +52 (624) 144 7343</a> <br>
+                           </p>
                         </div>
                     </div>
                 </div>

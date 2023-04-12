@@ -684,7 +684,7 @@ textarea.is-invalid {
 .arrows-style1 {
   display: flex;
   justify-content: space-between;
-  max-width: calc(100% - var(--padding-x, 800px) * 2);
+  max-width: calc(100% - var(--padding-x, 500px) * 2);
   width: 100%;
   margin: 20px auto 28px auto;
   position: relative;
@@ -871,7 +871,7 @@ textarea.is-invalid {
   font-weight: 500;
 }
 .vs-mobile-menu ul li a:before {
-  content: "";
+  content: "✔";
   font-family: var(--icon-font);
   position: relative;
   left: 0;
