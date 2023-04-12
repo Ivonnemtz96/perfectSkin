@@ -4,9 +4,6 @@
 <!-- magnific pop up -->
 <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/jquery.magnific-popup.min.js"></script>
 
-
-
-
     <script>
         $('.open-popup-link').magnificPopup({
   type: 'inline',

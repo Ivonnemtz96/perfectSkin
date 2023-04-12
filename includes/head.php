@@ -2,10 +2,8 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>Perfect Skin - <? echo $title?></title>
-    <meta name="author" content="Vecuro" />
-    <meta name="description" content="Wellnez - Spa Beauty Salon HTML Template" />
-    <meta name="keywords" content="Wellnez - Spa Beauty Salon HTML Template" />
-    <meta name="robots" content="INDEX,FOLLOW" />
+    <meta name="description" content="Perfect Skin especialistas en el cuidado y tratamientos de la piel Con seis sucursales estratégicamente ubicadas, Perfect Skin es un centro de belleza integral enfocado en tu bienestar." />
+    <meta name="keywords" content="Perfect Skin, láser, depilación, cuidado, piel, facial, moldeado corporal" />
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no" />
     <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon" />
     <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon" />

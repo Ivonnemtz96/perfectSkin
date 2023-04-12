@@ -51,7 +51,8 @@
                             <i class="package-dot rotate"></i>
                         </div>
                         <div class="package-btn">
-                            <a href="https://wa.me/+526241593637?text=Hola%20me%20gustaría%20agendar%20una%20cita." class="vs-btn style5">Agenda tu cita</a>
+                            <a href="https://wa.me/+526241593637?text=Hola%20me%20gustaría%20agendar%20una%20cita."
+                                class="vs-btn style5">Agenda tu cita</a>
                         </div>
                     </div>
                 </div>
@@ -125,13 +126,13 @@
                     <div class="vs-icon style2">
                         <img src="/assets/img/icon/fe-1-1.png" alt="icon" />
                     </div>
-                    <h3 class="feature-title h4">Depilación láser facial</h3>
+                    <h3 class="feature-title h4">Radiofrecuencia fraccionada</h3>
                     <div class="arrow-shape">
                         <i class="arrow"></i><i class="arrow"></i><i class="arrow"></i><i class="arrow"></i>
                     </div>
                     <p class="feature-text">
-                        Descubre nuestra tecnología de última generación en depilación láser facial, elimina el vello no
-                        deseado en tu rostro y obtén una piel suave y radiante. <br><br><br>
+                        ¿Deseas quitar o disminuir las arrugas de tu rostro sin necesitad de cirugía?, este tipo de
+                        tratamientos te pueden ayudar a reducir los daños y combatir la flacidez. <br>
                     </p>
                     <a href="/contactar" class="link-btn style2">Contactar</a>
                 </div>
@@ -139,15 +140,16 @@
             <div class="col-lg-4 col-xl-4">
                 <div class="feature-style2">
                     <div class="vs-icon style2">
-                        <img src="/assets/img/icon/fe-1-2.png" alt="icon" />
+                        <img src="/assets/img/icon/cat-1-3.png?=1" alt="icon" />
                     </div>
-                    <h3 class="feature-title h4">Depilación láser para cejas.</h3>
+                    <h3 class="feature-title h4">Depilación </h3>
                     <div class="arrow-shape">
                         <i class="arrow"></i><i class="arrow"></i><i class="arrow"></i><i class="arrow"></i>
                     </div>
                     <p class="feature-text">
-                        Con la tecnología de punta de nuestra depilación láser de cejas, tendrás una piel perfecta sin
-                        la necesidad de depilarte constantemente.
+                        En Perfect Skin tenemos la mejor tecnología, y la más novedosa.
+                        Somos líderes en la depilación definitiva, ya que contamos con el método más efectivo y seguro
+                        para eliminar el vello permanentemente. <br><br>
                     </p>
                     <a href="/contactar" class="link-btn style2">Contactar</a>
                 </div>
@@ -157,13 +159,13 @@
                     <div class="vs-icon style2">
                         <img src="/assets/img/icon/fe-1-3.png" alt="icon" />
                     </div>
-                    <h3 class="feature-title h4">Depilación láser de brazos</h3>
+                    <h3 class="feature-title h4">Eliminación de tatuajes</h3>
                     <div class="arrow-shape">
                         <i class="arrow"></i><i class="arrow"></i><i class="arrow"></i><i class="arrow"></i>
                     </div>
                     <p class="feature-text">
-                        Dile adiós al vello no deseado en tus brazos, para una piel suave y sin vello en tus brazos en
-                        un instante para que luzcas radiante. <br><br>
+                        Nuestro procedimiento de remoción de tatuajes se realiza mediante láser ND-Yag, provocando la
+                        fragmentacion de las partículas de pigmento, permitiendo su eliminación del cuerpo.
                     </p>
                     <a href="/contactar" class="link-btn style2">Contactar</a>
                 </div>
@@ -173,13 +175,13 @@
                     <div class="vs-icon style2">
                         <img src="/assets/img/icon/fe-1-4.png" alt="icon" />
                     </div>
-                    <h3 class="feature-title h4">Depilación láser de espalda</h3>
+                    <h3 class="feature-title h4">Fotorejuvenecimiento</h3>
                     <div class="arrow-shape">
                         <i class="arrow"></i><i class="arrow"></i><i class="arrow"></i><i class="arrow"></i>
                     </div>
                     <p class="feature-text">
-                        Nuestra depilación láser de espalda de alta tecnología te dará una piel suave y sin vello en
-                        las zonas más difíciles de alcanzar. <br><br>
+                        Nuestro servicio de fotorejuvenecimiento utiliza tecnología avanzada para mejorar la apariencia
+                        de tu piel, reduciendo la aparición de manchas, arrugas y líneas de expresión. <br><br>
                     </p>
                     <a href="/contactar" class="link-btn style2">Contactar</a>
                 </div>
@@ -211,7 +213,9 @@
                     </h2>
                     <div class="media-style1">
                         <div class="circle-btn style3">
-                            <a target="_blank" href="https://wa.me/+526241593637?text=Hola%20me%20gustaría%20agendar%20una%20cita." class="btn-icon"><i class="far fa-arrow-right"></i></a>
+                            <a target="_blank"
+                                href="https://wa.me/+526241593637?text=Hola%20me%20gustaría%20agendar%20una%20cita."
+                                class="btn-icon"><i class="far fa-arrow-right"></i></a>
                             <div class="btn-text">
                                 <svg viewBox="0 0 150 150">
                                     <text>
@@ -271,7 +275,7 @@
                     <div class="gallery-img">
                         <img src="/assets/img/gallery/gal-3-1.jpg?=1" alt="gallery" />
                     </div>
-                   
+
                 </div>
             </div>
             <div class="col">
@@ -279,7 +283,7 @@
                     <div class="gallery-img">
                         <img src="/assets/img/gallery/gal-3-2.jpg?=1" alt="gallery" />
                     </div>
-                    
+
                 </div>
             </div>
             <div class="col">
@@ -287,7 +291,7 @@
                     <div class="gallery-img">
                         <img src="/assets/img/gallery/gal-3-3.jpg?=1" alt="gallery" />
                     </div>
-                    
+
                 </div>
             </div>
             <div class="col">
@@ -295,7 +299,7 @@
                     <div class="gallery-img">
                         <img src="/assets/img/gallery/gal-3-4.jpg?=1" alt="gallery" />
                     </div>
-                    
+
                 </div>
             </div>
         </div>
@@ -355,7 +359,9 @@
                                     </ul>
                                 </div>
                                 <div class="package-btn">
-                                <a target="_blank" href="https://wa.me/+526241593637?text=Hola%20me%20gustaría%20agendar%20una%20cita." class="vs-btn style3">Agendar ahora</a>
+                                    <a target="_blank"
+                                        href="https://wa.me/+526241593637?text=Hola%20me%20gustaría%20agendar%20una%20cita."
+                                        class="vs-btn style3">Agendar ahora</a>
                                 </div>
                             </div>
                         </div>
@@ -383,7 +389,9 @@
                                     </ul>
                                 </div>
                                 <div class="package-btn">
-                                <a target="_blank" href="https://wa.me/+526241593637?text=Hola%20me%20gustaría%20agendar%20una%20cita." class="vs-btn style3">Agendar ahora</a>
+                                    <a target="_blank"
+                                        href="https://wa.me/+526241593637?text=Hola%20me%20gustaría%20agendar%20una%20cita."
+                                        class="vs-btn style3">Agendar ahora</a>
                                 </div>
                             </div>
                         </div>
@@ -408,7 +416,9 @@
                                     </p>
                                 </div>
                                 <div class="package-btn">
-                                    <a target="_blank" href="https://wa.me/+526241593637?text=Hola%20me%20gustaría%20agendar%20una%20cita." class="vs-btn style3">Agendar ahora</a>
+                                    <a target="_blank"
+                                        href="https://wa.me/+526241593637?text=Hola%20me%20gustaría%20agendar%20una%20cita."
+                                        class="vs-btn style3">Agendar ahora</a>
                                 </div>
                             </div>
                         </div>
@@ -446,8 +456,7 @@
             <div class="col-xl-3">
                 <div class="vs-blog blog-style1">
                     <div class="blog-img">
-                        <a href=""><img src="/assets/img/blog/blog-1-1.jpg?=1" alt="Blog Thumbnail"
-                                class="w-100" /></a>
+                        <a href=""><img src="/assets/img/blog/blog-1-1.jpg?=1" alt="Blog Thumbnail" class="w-100" /></a>
                     </div>
                     <div class="blog-content">
                         <h3 class="blog-title h5">
@@ -463,12 +472,12 @@
             <div class="col-xl-3">
                 <div class="vs-blog blog-style1">
                     <div class="blog-img">
-                        <a href=""><img src="/assets/img/blog/blog-1-2.jpg?=1" alt="Blog Thumbnail"
-                                class="w-100" /></a>
+                        <a href=""><img src="/assets/img/blog/blog-1-2.jpg?=1" alt="Blog Thumbnail" class="w-100" /></a>
                     </div>
                     <div class="blog-content">
                         <h3 class="blog-title h5">
-                            <a target="_blank" target="_blank" href="https://goo.gl/maps/oVmbS9XBYDNCfxrSA">Cabo San Lucas</a>
+                            <a target="_blank" target="_blank" href="https://goo.gl/maps/oVmbS9XBYDNCfxrSA">Cabo San
+                                Lucas</a>
                         </h3>
                         <div class="blog-meta">
                             <a target="_blank" href="tel:+526241447343">Llamar</a>
@@ -485,7 +494,8 @@
 <section class="text-center space" data-bg-src="/assets/img/bg/cta-bg-1-1.jpg?=1">
     <div class="d-inline-flex mb-4 pb-1">
         <div class="circle-btn style2">
-            <a target="_blank" href="https://wa.me/+526241593637?text=Hola%20me%20gustaría%20agendar%20una%20cita." class="btn-icon"><i class="far fa-arrow-right"></i></a>
+            <a target="_blank" href="https://wa.me/+526241593637?text=Hola%20me%20gustaría%20agendar%20una%20cita."
+                class="btn-icon"><i class="far fa-arrow-right"></i></a>
             <div class="btn-text">
                 <svg viewBox="0 0 150 150">
                     <text>

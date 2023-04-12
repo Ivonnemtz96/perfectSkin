@@ -1,4 +1,4 @@
-<div class="breadcumb-wrapper" data-bg-src="/assets/img/breadcumb/breadcumb-bg-2.jpg?=1">
+<div class="breadcumb-wrapper" data-bg-src="/assets/img/breadcumb/breadcumb-bg-4.jpg?=1">
     <div class="container z-index-common">
         <div class="breadcumb-content">
             <h1 class="breadcumb-title">

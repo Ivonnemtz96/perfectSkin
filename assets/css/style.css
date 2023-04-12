@@ -5951,7 +5951,7 @@ blockquote.vs-quote cite:before {
   color: #6f6c6c;
 }
 .package-style1 .package-list li:before {
-  content: "";
+  content: "→";
   position: absolute;
   right: 0;
   top: 50%;
